@@ -3,11 +3,11 @@
 My own python Alexa :)
 
 Requirements:
-  speech_recognition as sr
-  pyttsx3
-  pywhatkit
-  datetime
-  wikipedia
-  pyjokes
+  - speech_recognition
+  - pyttsx3
+  - pywhatkit
+  - datetime
+  - wikipedia
+  - pyjokes
   
   dEvBranco
